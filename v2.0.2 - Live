@@ -1,0 +1,19 @@
+**Version 2.0.2 of The Academy Role-Play is Released**
+
+At the next server restart, the dev team is announcing that the following bug fixes/changes will be implemented:
+
+**General Server Bug Fixes/Updates:**
+- Fixed an EMS bug where the powerload and new medical script were attached to the same keybind.  The medical script has been changed to 'X' for your own self, and Left Alt+X for EMS personnel.
+- Updated the version of the Inventory system and resolved some of the issues we saw with that specific system.
+- Updated the inventory system images that were missing during the release last night.
+- There is a known solution for creating a new character.  Do not use /switchcharacter and create a new one.  If you want to create a new one entirely, close out of FiveM and restart FiveM.  This should eliminate the not-saving character issue.
+- Fixed a general server bug where items used not being removed from your hands.
+- Added the ability to be able to set your own keybinds for things.  Make sure you go into settings, keybinds and the FiveM menu to set your customized keybinds for items.
+- Fixed a bug where you spawn in invisible.
+- Fixed a bug where you will no longer spawn in naked.
+
+**EMS Changes:**
+- Added the emergency revive kit strictly for EMS.
+
+Thanks, @everyone!
+- The Development Team
